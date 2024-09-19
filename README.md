@@ -1,4 +1,4 @@
-# Data_Structure_-_Algo.
+# Data_Structure-Algo.
 A collection of LeetCode questions to ace the coding interview! 
 
 <!---LeetCode Topics Start-->

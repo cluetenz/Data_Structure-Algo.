@@ -11,7 +11,7 @@ class Solution {
     }
     public int findKthNumber(int n, int k) {
         int curr=1;
-        k -=1; //sincewe start from 1st number (1), we need k-1 more numbwer
+        k -=1; //since we start from 1st number (1), we need k-1 more numbwer
 
         while(k>0){
             int count=Count(curr,curr+1,n);

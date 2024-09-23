@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0179-largest-number) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1354-find-players-with-zero-or-one-losses) |
 ## String
 |  |
 | ------- |
@@ -22,14 +23,17 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0179-largest-number) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Hash Table
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0920-uncommon-words-from-two-sentences) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Counting
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0920-uncommon-words-from-two-sentences) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Math
 |  |
 | ------- |

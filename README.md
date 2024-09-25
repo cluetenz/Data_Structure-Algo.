@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0179-largest-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0241-different-ways-to-add-parentheses) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0920-uncommon-words-from-two-sentences) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0208-implement-trie-prefix-tree) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0920-uncommon-words-from-two-sentences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2755-extra-characters-in-a-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2755-extra-characters-in-a-string) |
@@ -76,8 +78,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0208-implement-trie-prefix-tree) |
 | [0386-lexicographical-numbers](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2755-extra-characters-in-a-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->

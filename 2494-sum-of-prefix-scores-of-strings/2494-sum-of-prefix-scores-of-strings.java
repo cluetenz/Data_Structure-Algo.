@@ -1,7 +1,10 @@
+//Approach - Using TRIE 
+//T.C : O(n*l), n = number of words, l = average length of each word
+//S.C : O(n*l), need to store all characters of words
 class Solution {
     static class trieNode{
         trieNode []child;
-        int countOfPrefix; //keep the count of prefix in a word
+        int countOfPrefix=0; //keep the count of prefix in a word
 
         trieNode(){
             child=new trieNode[26];

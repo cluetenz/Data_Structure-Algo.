@@ -1,77 +1,76 @@
 class MyCircularDeque {
-
-    private int[] deq;         // Array to store deque elements
-    private int K;             // Maximum capacity of the deque
-    private int front;         // Pointer to the front of the deque
-    private int rear;          // Pointer to the rear of the deque
-    private int currentCount;  // Current number of elements in the deque
+    private LinkedList<Integer> deq;  // Using LinkedList to store deque elements
+    private int cnt;                  // Current number of elements in the deque
+    private int k;                    // Maximum capacity of the deque
 
     public MyCircularDeque(int k) {
-        K = k;
-        deq = new int[K];  
-        front = 0;
-        rear = K - 1;
-        currentCount = 0;
+        this.k = k;                  
+        this.deq = new LinkedList<>(); 
+        this.cnt = 0;                  
+        
     }
     
     public boolean insertFront(int value) {
-        if (isFull()) {
-            return false;
+        if (cnt == k) {
+            return false;              
         }
-        front = (front - 1 + K) % K;
-        deq[front] = value;
-        currentCount++;
-        return true;
+        deq.addFirst(value);         
+        cnt++;                         
+        return true;  
     }
     
     public boolean insertLast(int value) {
-        if (isFull()) {
-            return false;
+        if (cnt == k) {
+            return false;             
         }
-        rear = (rear + 1) % K;
-        deq[rear] = value;
-        currentCount++;
+        deq.addLast(value);            
+        cnt++;                         
         return true;
+        
     }
     
     public boolean deleteFront() {
-        if (isEmpty()) {
-            return false;
+        if (cnt == 0) {
+            return false;             
         }
-        front = (front + 1) % K;
-        currentCount--;
-        return true;  
+        deq.removeFirst();             
+        cnt--;                         
+        return true;
+        
     }
     
     public boolean deleteLast() {
-        if (isEmpty()) {
-            return false;
+        if (cnt == 0) {
+            return false;              
         }
-        rear = (rear - 1 + K) % K;
-        currentCount--;
-        return true;  
+        deq.removeLast();             
+        cnt--;                         
+        return true;
+        
     }
     
     public int getFront() {
-        if (isEmpty()) {
-            return -1;
+        if (cnt == 0) {
+            return -1;                
         }
-        return deq[front];  
+        return deq.getFirst();  
+        
     }
     
     public int getRear() {
-        if(isEmpty()) {
-            return -1;
+         if (cnt == 0) {
+            return -1;             
         }
-        return deq[rear];  
+        return deq.getLast();
+        
     }
     
     public boolean isEmpty() {
-        return currentCount == 0; 
+        return cnt==0; 
     }
     
     public boolean isFull() {
-        return currentCount == K;
+        return cnt==k;  
     }
 }
 

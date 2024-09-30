@@ -124,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0859-design-circular-deque) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->

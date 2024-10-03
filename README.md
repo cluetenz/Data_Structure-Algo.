@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0729-my-calendar-i](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0859-design-circular-deque) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1016-subarray-sums-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1256-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1497-design-a-stack-with-increment-operation) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0208-implement-trie-prefix-tree) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0920-uncommon-words-from-two-sentences) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1016-subarray-sums-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1256-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0731-my-calendar-ii) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1016-subarray-sums-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |

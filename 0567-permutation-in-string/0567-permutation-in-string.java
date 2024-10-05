@@ -1,3 +1,32 @@
+//Approch:- using sorting 
+//T.C : O((m-n) * nlogn)
+//S.C : O(n)
+class Solution {
+    public boolean checkInclusion(String s1, String s2) {
+        int m=s1.length();
+        int n=s2.length();
+        if(n<m){
+            return false;
+        }
+        char []arr=s1.toCharArray();
+        Arrays.sort(arr);
+
+        for(int i=0;i<=n-m;i++){
+            String temp= s2.substring(i,i+m);
+
+            char[] arrTemp=temp.toCharArray();
+            Arrays.sort(arrTemp);
+
+            if (Arrays.equals(arrTemp, arr)){
+                return true;
+            }
+        }
+        return false;
+    }
+}
+//approch:- Sliding Window
+//T.C:- O(m+n)
+//S.C:- O(26)
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
         int m=s1.length();

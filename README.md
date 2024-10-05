@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0214-shortest-palindrome](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0241-different-ways-to-add-parentheses) |
 | [0412-fizz-buzz](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0412-fizz-buzz) |
+| [0567-permutation-in-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0920-uncommon-words-from-two-sentences) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2755-extra-characters-in-a-string) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0208-implement-trie-prefix-tree) |
+| [0567-permutation-in-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0920-uncommon-words-from-two-sentences) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1016-subarray-sums-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1256-rank-transform-of-an-array) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0567-permutation-in-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Backtracking
 |  |
@@ -171,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0079-word-search](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0079-word-search) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->

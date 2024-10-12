@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1694-make-sum-divisible-by-p](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1694-make-sum-divisible-by-p) |
 | [1923-sentence-similarity-iii](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2755-extra-characters-in-a-string) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0179-largest-number) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0349-intersection-of-two-arrays) |
 | [1256-rank-transform-of-an-array](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1256-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1354-find-players-with-zero-or-one-losses) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0731-my-calendar-ii](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0731-my-calendar-ii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1016-subarray-sums-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1694-make-sum-divisible-by-p) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Linked List
 |  |
 | ------- |
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Backtracking
 |  |
@@ -205,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0215-kth-largest-element-in-an-array) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Divide and Conquer
 |  |
 | ------- |

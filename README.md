@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0046-permutations](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0046-permutations) |
+| [0075-sort-colors](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0215-kth-largest-element-in-an-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0349-intersection-of-two-arrays) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1923-sentence-similarity-iii) |

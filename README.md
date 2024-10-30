@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1354-find-players-with-zero-or-one-losses](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1646-kth-missing-positive-number](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1646-kth-missing-positive-number) |
 | [1694-make-sum-divisible-by-p](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1694-make-sum-divisible-by-p) |
 | [1923-sentence-similarity-iii](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0349-intersection-of-two-arrays) |
 | [0729-my-calendar-i](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0731-my-calendar-ii) |
+| [1646-kth-missing-positive-number](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1646-kth-missing-positive-number) |
 ## Segment Tree
 |  |
 | ------- |

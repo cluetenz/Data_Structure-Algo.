@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0241-different-ways-to-add-parentheses](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0241-different-ways-to-add-parentheses) |
 | [0412-fizz-buzz](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0412-fizz-buzz) |
 | [0567-permutation-in-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0567-permutation-in-string) |
+| [0812-rotate-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |

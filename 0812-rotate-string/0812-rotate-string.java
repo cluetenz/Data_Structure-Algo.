@@ -19,3 +19,19 @@ class Solution {
         
     }
 }
+
+//Approch 2:- concate and checking with goal
+//T.C:- O(n)
+//S.C:-O(1)
+
+class Solution {
+    public boolean rotateString(String s, String goal) {
+        int n=s.length();
+        int m=goal.length();
+        if(m!=n){
+            return false;
+        }
+        String con=s+s;
+        return con.contains(goal);   
+    }
+}

@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0241-different-ways-to-add-parentheses](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0241-different-ways-to-add-parentheses) |
 | [0412-fizz-buzz](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0412-fizz-buzz) |
 | [0670-maximum-swap](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0670-maximum-swap) |
+| [2716-prime-subtraction-operation](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2716-prime-subtraction-operation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0729-my-calendar-i](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0731-my-calendar-ii) |
 | [1646-kth-missing-positive-number](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1646-kth-missing-positive-number) |
+| [2716-prime-subtraction-operation](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2716-prime-subtraction-operation) |
 ## Segment Tree
 |  |
 | ------- |
@@ -246,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0215-kth-largest-element-in-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->

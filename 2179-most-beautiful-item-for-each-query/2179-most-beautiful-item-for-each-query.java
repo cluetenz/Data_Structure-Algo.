@@ -1,3 +1,25 @@
+//Approch:- simple travesing and checking for everyElement in items
+//T.C:- O(m*n) where m=length of items and n=length of quries 
+class Solution {
+    public int[] maximumBeauty(int[][] items, int[] queries) {
+        int n= queries.length;
+        int m=items.length;
+        int [] ans=new int [n];
+        for(int i=0;i<n;i++){
+            int qur=queries[i];
+            int maxBeauty=0;
+            for(int j=0;j<m;j++){
+                if(items[j][0]<=qur){
+                    if(maxBeauty<items[j][1]){
+                        maxBeauty=items[j][1];
+                    }
+                }
+            }
+            ans[i]=maxBeauty;
+        }
+        return ans;
+    }
+}
 //Approch:-sorting and using binary search
 //T.C:-O(nlogn+mlogn+n)
 class Solution {

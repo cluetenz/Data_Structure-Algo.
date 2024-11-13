@@ -1,3 +1,20 @@
+//Approch :- Brute force
+//T.C:- O(n^2)
+//S.C:-O(1)
+class Solution {
+    public long countFairPairs(int[] nums, int lower, int upper) {
+        int count=0;
+        for(int i=0;i<nums.length;i++){
+            for(int j=0;j<nums.length;j++){
+                if(i<j && (lower <= nums[i] + nums[j]) && (nums[i] + nums[j] <= upper)){
+                    count++;
+                }
+            }
+        }
+        return count; 
+    }
+}
+
 //Approch :- using binary search
 //T.C:- O(nlogn)
 //S.C:-O(1)

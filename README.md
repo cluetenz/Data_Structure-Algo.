@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2179-most-beautiful-item-for-each-query](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2699-count-the-number-of-fair-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0731-my-calendar-ii](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0731-my-calendar-ii) |
 | [1646-kth-missing-positive-number](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1646-kth-missing-positive-number) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2179-most-beautiful-item-for-each-query) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2716-prime-subtraction-operation) |
 ## Segment Tree
 |  |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/3195-separate-black-and-white-balls) |
 ## Backtracking
 |  |

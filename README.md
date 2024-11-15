@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0241-different-ways-to-add-parentheses) |
+| [0371-sum-of-two-integers](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0412-fizz-buzz) |
 | [0670-maximum-swap](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0670-maximum-swap) |
 | [2716-prime-subtraction-operation](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2716-prime-subtraction-operation) |
@@ -263,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2716-prime-subtraction-operation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->

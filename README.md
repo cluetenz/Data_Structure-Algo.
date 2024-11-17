@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0729-my-calendar-i](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0859-design-circular-deque) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1016-subarray-sums-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1256-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0349-intersection-of-two-arrays) |
 | [0729-my-calendar-i](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1646-kth-missing-positive-number](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2179-most-beautiful-item-for-each-query) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1016-subarray-sums-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1694-make-sum-divisible-by-p) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0859-design-circular-deque) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Database
 |  |
 | ------- |
@@ -248,12 +252,14 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0567-permutation-in-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0215-kth-largest-element-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -278,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->

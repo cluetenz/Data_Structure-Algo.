@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1304-longest-happy-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1923-sentence-similarity-iii](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0214-shortest-palindrome](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Hash Function
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0567-permutation-in-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |

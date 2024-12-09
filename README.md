@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0079-word-search) |
+| [0118-pascals-triangle](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0118-pascals-triangle) |
 | [0179-largest-number](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0349-intersection-of-two-arrays) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0118-pascals-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0241-different-ways-to-add-parentheses) |
 | [2164-two-best-non-overlapping-events](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2164-two-best-non-overlapping-events) |
 | [2755-extra-characters-in-a-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2755-extra-characters-in-a-string) |

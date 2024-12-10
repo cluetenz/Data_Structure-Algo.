@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0046-permutations](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0046-permutations) |
+| [0073-set-matrix-zeroes](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0118-pascals-triangle) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0073-set-matrix-zeroes) |
 | [0208-implement-trie-prefix-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0208-implement-trie-prefix-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0567-permutation-in-string) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0079-word-search) |
 ## Sliding Window
 |  |

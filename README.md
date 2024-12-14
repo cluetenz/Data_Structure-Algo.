@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0859-design-circular-deque](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0907-koko-eating-bananas) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0987-reveal-cards-in-increasing-order) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1016-subarray-sums-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1256-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0349-intersection-of-two-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0987-reveal-cards-in-increasing-order) |
 | [1256-rank-transform-of-an-array](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1256-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1468-check-if-n-and-its-double-exist) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0859-design-circular-deque](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0987-reveal-cards-in-increasing-order) |
 ## Database
 |  |
 | ------- |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0412-fizz-buzz) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0987-reveal-cards-in-increasing-order) |
 | [2232-adding-spaces-to-a-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2695-find-score-of-an-array-after-marking-all-elements) |

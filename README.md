@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0731-my-calendar-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0780-max-chunks-to-make-sorted) |
 | [0859-design-circular-deque](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0907-koko-eating-bananas) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0670-maximum-swap) |
+| [0780-max-chunks-to-make-sorted](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1304-longest-happy-string) |
 | [1917-maximum-average-pass-ratio](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1917-maximum-average-pass-ratio) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0349-intersection-of-two-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0780-max-chunks-to-make-sorted](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0780-max-chunks-to-make-sorted) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0987-reveal-cards-in-increasing-order) |
 | [1256-rank-transform-of-an-array](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1256-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Queue

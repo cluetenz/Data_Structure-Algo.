@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0386-lexicographical-numbers](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0386-lexicographical-numbers) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0637-average-of-levels-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0859-design-circular-deque](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0859-design-circular-deque) |
 ## Queue
 |  |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0637-average-of-levels-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0637-average-of-levels-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -399,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0637-average-of-levels-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2493-reverse-odd-levels-of-binary-tree) |
 <!---LeetCode Topics End-->

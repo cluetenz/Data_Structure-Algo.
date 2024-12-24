@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0496-next-greater-element-i) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0731-my-calendar-ii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0073-set-matrix-zeroes) |
 | [0208-implement-trie-prefix-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0208-implement-trie-prefix-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0920-uncommon-words-from-two-sentences) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1497-design-a-stack-with-increment-operation) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0496-next-greater-element-i) |
 | [0780-max-chunks-to-make-sorted](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |

@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0907-koko-eating-bananas](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0907-koko-eating-bananas) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0987-reveal-cards-in-increasing-order) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1016-subarray-sums-divisible-by-k) |
+| [1063-best-sightseeing-pair](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1063-best-sightseeing-pair) |
 | [1256-rank-transform-of-an-array](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1256-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1468-check-if-n-and-its-double-exist) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0118-pascals-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0241-different-ways-to-add-parentheses) |
 | [0494-target-sum](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0494-target-sum) |
+| [1063-best-sightseeing-pair](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1063-best-sightseeing-pair) |
 | [2164-two-best-non-overlapping-events](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2164-two-best-non-overlapping-events) |
 | [2755-extra-characters-in-a-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2755-extra-characters-in-a-string) |
 ## Recursion

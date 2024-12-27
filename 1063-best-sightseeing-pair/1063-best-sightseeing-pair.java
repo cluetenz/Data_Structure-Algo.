@@ -15,3 +15,18 @@ class Solution {
         return ans;
     }
 }
+//by taking O(1) space and O(n) time
+class Solution {
+    public int maxScoreSightseeingPair(int[] values) {
+        int n=values.length;
+        int max=values[0]+0;
+        int ans=Integer.MIN_VALUE;
+        for(int i=1;i<n;i++){
+            int value=values[i]-i;
+            int y=max;
+            ans=Math.max(ans,value+y);
+            max=Math.max(max,values[i]+i);
+        }
+        return ans;
+    }
+}

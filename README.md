@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0496-next-greater-element-i) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0729-my-calendar-i](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0731-my-calendar-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0780-max-chunks-to-make-sorted) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0118-pascals-triangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0241-different-ways-to-add-parentheses) |
 | [0494-target-sum](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0494-target-sum) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1063-best-sightseeing-pair](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1063-best-sightseeing-pair) |
 | [2164-two-best-non-overlapping-events](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2164-two-best-non-overlapping-events) |
 | [2755-extra-characters-in-a-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2755-extra-characters-in-a-string) |

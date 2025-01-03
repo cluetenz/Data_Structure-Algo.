@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2179-most-beautiful-item-for-each-query](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2232-adding-spaces-to-a-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1016-subarray-sums-divisible-by-k](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1016-subarray-sums-divisible-by-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1694-make-sum-divisible-by-p) |
+| [2358-number-of-ways-to-split-array](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2358-number-of-ways-to-split-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/3427-special-array-ii) |

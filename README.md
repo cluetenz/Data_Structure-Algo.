@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0079-word-search) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0118-pascals-triangle) |
 | [0179-largest-number](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0215-kth-largest-element-in-an-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0208-implement-trie-prefix-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0208-implement-trie-prefix-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0496-next-greater-element-i) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0215-kth-largest-element-in-an-array) |
 | [1285-balance-a-binary-search-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1285-balance-a-binary-search-tree) |
 ## Quickselect
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0637-average-of-levels-in-binary-tree) |
@@ -436,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0637-average-of-levels-in-binary-tree) |

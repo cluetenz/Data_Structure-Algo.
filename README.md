@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0780-max-chunks-to-make-sorted](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0780-max-chunks-to-make-sorted) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0987-reveal-cards-in-increasing-order) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1256-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1468-check-if-n-and-its-double-exist) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0920-uncommon-words-from-two-sentences) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1016-subarray-sums-divisible-by-k) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1256-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1468-check-if-n-and-its-double-exist) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0386-lexicographical-numbers](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0386-lexicographical-numbers) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0637-average-of-levels-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1285-balance-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0637-average-of-levels-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1285-balance-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -434,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0637-average-of-levels-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Tree
@@ -444,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0637-average-of-levels-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1285-balance-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |

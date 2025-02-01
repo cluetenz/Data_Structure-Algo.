@@ -7,7 +7,7 @@ class Solution {
         int i=0;
         int j=1;
         while(j<n){
-            if(nums[i]%2==nums[j]%2){
+            if((nums[i]&1)==(nums[j]&1)){
                 return false;
             }
             i++;

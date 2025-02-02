@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0386-lexicographical-numbers](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0386-lexicographical-numbers) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0637-average-of-levels-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0637-average-of-levels-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1285-balance-a-binary-search-tree) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0637-average-of-levels-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1285-balance-a-binary-search-tree) |
@@ -461,5 +464,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1285-balance-a-binary-search-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1285-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->

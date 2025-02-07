@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2892-check-if-array-is-good](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2892-check-if-array-is-good) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Counting
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2692-take-gifts-from-the-richest-pile](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |

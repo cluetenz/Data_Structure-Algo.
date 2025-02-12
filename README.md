@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2232-adding-spaces-to-a-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2358-number-of-ways-to-split-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1468-check-if-n-and-its-double-exist](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2179-most-beautiful-item-for-each-query) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2300-construct-string-with-repeat-limit) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2300-construct-string-with-repeat-limit) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2692-take-gifts-from-the-richest-pile) |

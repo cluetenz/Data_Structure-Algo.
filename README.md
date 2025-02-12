@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0595-big-countries) |
 ## Stack
 |  |

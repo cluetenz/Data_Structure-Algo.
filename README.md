@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1256-rank-transform-of-an-array](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1256-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0371-sum-of-two-integers](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0412-fizz-buzz) |
 | [0670-maximum-swap](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0670-maximum-swap) |
+| [1477-product-of-the-last-k-numbers](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1477-product-of-the-last-k-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Dynamic Programming
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0729-my-calendar-i](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0859-design-circular-deque) |
+| [1477-product-of-the-last-k-numbers](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1497-design-a-stack-with-increment-operation) |
 ## Binary Search
 |  |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0731-my-calendar-ii](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1016-subarray-sums-divisible-by-k) |
+| [1477-product-of-the-last-k-numbers](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1694-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -490,4 +494,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1285-balance-a-binary-search-tree](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1285-balance-a-binary-search-tree) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->

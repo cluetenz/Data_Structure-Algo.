@@ -1,3 +1,6 @@
+//Approch:-Brute Force
+//T.C:-O(1) for add() and O(k) for getProduct()
+//S.C:-O(1)
 class ProductOfNumbers {
     private List<Integer> list;
     private int n;
@@ -21,6 +24,39 @@ class ProductOfNumbers {
     }
 }
 
+
+class ProductOfNumbers {
+    private List<Integer> list;
+
+    public ProductOfNumbers() {
+        list = new ArrayList<>();
+    }
+
+    public void add(int num) {
+        if (num == 0) {
+            list.clear();
+        } else {
+            if (list.isEmpty()) {
+                list.add(num);
+            } else {
+                list.add(list.get(list.size() - 1) * num);
+            }
+        }
+    }
+//Approch:- Using Prefix Sum()
+//T.C:-O(1) for add() and O(1) for getProduct()
+//S.C:-O(n)
+
+    public int getProduct(int k) {
+        int n = list.size();
+        if (k > n) {
+            return 0;
+        } else if (k == n) {
+            return list.get(n - 1);
+        }
+        return list.get(n - 1) / list.get(n - k - 1);
+    }
+}
 /**
  * Your ProductOfNumbers object will be instantiated and called as such:
  * ProductOfNumbers obj = new ProductOfNumbers();

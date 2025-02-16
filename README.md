@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1694-make-sum-divisible-by-p) |
 | [1755-defuse-the-bomb](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1755-defuse-the-bomb) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1917-maximum-average-pass-ratio) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0494-target-sum) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Matrix
 |  |
 | ------- |

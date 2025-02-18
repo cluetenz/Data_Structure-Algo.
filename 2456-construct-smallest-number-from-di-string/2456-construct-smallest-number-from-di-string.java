@@ -1,3 +1,6 @@
+//Approch:- Brute Force
+//T.C:-O(N*(n+1)!)
+//S.C:-O(N+1)
 class Solution {
     public String smallestNumber(String pattern) {
         int n = pattern.length();
@@ -57,4 +60,26 @@ class Solution {
         return true;
     }
     
+}
+
+//Approch:- using stack
+//T.C:-O(N)
+//S.C:-O(N+1)
+class Solution {
+    public String smallestNumber(String pattern) {
+        int n=pattern.length();
+        StringBuilder result=new StringBuilder();
+        Stack<Character>st=new Stack<>();
+        int counter=1;
+        for(int i=0;i<=n;i++){
+            st.push((char)('0'+counter));
+            counter++;
+            if(i==n || pattern.charAt(i)=='I'){
+                while(!st.isEmpty()){
+                    result.append(st.pop());
+                }
+            }
+        }
+        return result.toString();
+    }
 }

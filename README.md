@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1160-letter-tile-possibilities](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1160-letter-tile-possibilities) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1304-longest-happy-string) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2456-construct-smallest-number-from-di-string) |
 ## Matrix

@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2868-continuous-subarrays](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2892-check-if-array-is-good](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2892-check-if-array-is-good) |
+| [3221-find-the-peaks](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/3221-find-the-peaks) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -512,4 +513,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1477-product-of-the-last-k-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3221-find-the-peaks](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/3221-find-the-peaks) |
 <!---LeetCode Topics End-->

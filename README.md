@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1923-sentence-similarity-iii](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1927-maximum-ascending-subarray-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2107-find-unique-binary-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2107-find-unique-binary-string) |
 | [2164-two-best-non-overlapping-events](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2107-find-unique-binary-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2107-find-unique-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2107-find-unique-binary-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2107-find-unique-binary-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2300-construct-string-with-repeat-limit) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1160-letter-tile-possibilities](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2107-find-unique-binary-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2456-construct-smallest-number-from-di-string) |
 ## Matrix
 |  |

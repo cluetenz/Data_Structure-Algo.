@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1694-make-sum-divisible-by-p](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1694-make-sum-divisible-by-p) |
 | [1755-defuse-the-bomb](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1755-defuse-the-bomb) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1917-maximum-average-pass-ratio) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1063-best-sightseeing-pair) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2164-two-best-non-overlapping-events](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2164-two-best-non-overlapping-events) |
 | [2562-count-ways-to-build-good-strings](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2562-count-ways-to-build-good-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/2755-extra-characters-in-a-string) |

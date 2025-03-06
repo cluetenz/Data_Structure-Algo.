@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0172-factorial-trailing-zeroes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0241-different-ways-to-add-parentheses) |
+| [0367-valid-perfect-square](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0412-fizz-buzz) |
 | [0670-maximum-swap](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0670-maximum-swap) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0367-valid-perfect-square) |
 | [0729-my-calendar-i](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/cluetenz/Data_Structure_-_Algo./tree/master/0892-shortest-subarray-with-sum-at-least-k) |
